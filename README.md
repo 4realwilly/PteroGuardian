@@ -48,7 +48,7 @@ Create a `config.json`:
 ## Usage
 
 ```bash
-python server_cleanup.py
+python main.py
 ```
 
 The script will:
